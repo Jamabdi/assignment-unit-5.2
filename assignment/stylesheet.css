@@ -5,6 +5,7 @@ header{
 }
 main{
     background-color: rgb(205, 205, 205);
+    padding: 10px;
 } 
 body{
     background-image:url(record.png);
